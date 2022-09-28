@@ -1,4 +1,4 @@
 # hello-world
 Test repository
 ---
-Hello,  I am a **computer scinetists**.
+Hello,  I am a **computer scientist**.
